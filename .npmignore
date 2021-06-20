@@ -1,0 +1,7 @@
+src
+.editorconfig
+.gitignore
+.lintstagedrc
+.prettierrc
+.tsconfig.json
+.husky
