@@ -1,6 +1,6 @@
 {
   "name": "@sneas/dist-link",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A lightning-fast alternative to 'npm link' which excludes node_modules",
   "bin": {
     "dist-link": "./dist/index.js"
@@ -32,5 +32,8 @@
     "npm",
     "link",
     "symlink"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
