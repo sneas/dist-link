@@ -1,6 +1,6 @@
 # dist-link
 
-A lightning fast alternative to `npm link` which excludes `node_modules`.
+A lightning-fast alternative to `npm link` which excludes `node_modules`.
 
 ## Motivation
 
