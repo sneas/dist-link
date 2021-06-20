@@ -20,10 +20,12 @@
   },
   "homepage": "https://github.com/sneas/dist-link#readme",
   "devDependencies": {
+    "@semantic-release/git": "^9.0.0",
     "@types/node": "^15.12.4",
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.1",
+    "semantic-release": "^17.4.4",
     "typescript": "^4.3.4"
   },
   "keywords": [
