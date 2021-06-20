@@ -1,0 +1,26 @@
+{
+  "name": "dist-link",
+  "version": "0.0.0",
+  "description": "When you don't want node_modules in your npm-link",
+  "bin": {
+    "dist-link": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneas/dist-link.git"
+  },
+  "author": "Dmytro Snisarenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sneas/dist-link/issues"
+  },
+  "homepage": "https://github.com/sneas/dist-link#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "typescript": "^4.3.4"
+  }
+}
